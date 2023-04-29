@@ -43,5 +43,3 @@ var isValid = function(s) {
     console.log(parentheses_counters);
     return false
 };
-
-console.log(isValid("()"));
